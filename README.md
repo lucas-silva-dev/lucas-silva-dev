@@ -1,16 +1,14 @@
-### Hi there 👋
+# Lucas Silva
 
-<!--
-**lucas-silva-dev/lucas-silva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fala pessoal 👋
+Sou apaixonado pela stack Javascript e resolver problemas.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Não estou trabalhando no momento e busco uma **oportunidade**
+ <br/> :book: &nbsp; Estou sempre aprendendo e praticando os conhecimentos
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias de desenvolvimento e hardware, games CS:GO e o Nome do Vento :purple_heart:
+ <br/> :email: &nbsp; Posso ser encontrado em: [![Linkedin Badge](https://img.shields.io/badge/-LucasSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-costa-silva/)](https://www.linkedin.com/in/lucas-costa-silva/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-lucassilva314159@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucassilva314159@gmail.com)](mailto:lucassilva314159@gmail.com)
+| 
+[![Outlook Badge](https://img.shields.io/badge/-lucassilva.work@outlook.com-blue?style=flat-square&logo=Mail&logoColor=white&link=mailto:lucassilva.work@outlook.com)](mailto:lucassilva.work@outlook.com)
