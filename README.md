@@ -3,7 +3,6 @@
 ## Fala pessoal 👋
 Sou apaixonado pela stack Javascript e resolver problemas.
 
- :mag_right:  &nbsp; Não estou trabalhando no momento e busco uma **oportunidade**
  <br/> :book: &nbsp; Estou sempre aprendendo e praticando os conhecimentos
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias de desenvolvimento e hardware, games CS:GO e o Nome do Vento :purple_heart:
